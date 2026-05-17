@@ -1,0 +1,6 @@
+{
+  "name": "Aftab Sikender Portfolio",
+  "description": "Premium, vanilla HTML/CSS/JS portfolio website for Aftab Sikender, an AI educator, digital creator, and rural innovator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
